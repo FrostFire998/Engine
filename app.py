@@ -1,3 +1,3 @@
-import flask from Flask
-
+from flask import Flask
+#инициализация приложения
 app = Flask(__name__)
